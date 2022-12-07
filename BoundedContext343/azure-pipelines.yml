@@ -14,7 +14,7 @@ variables:
   # containerRegistryDockerConnection: 'acr'
   # environment: 'aks.default'
 - name: imageRepository
-  value: 'BoundedContext413'
+  value: 'BoundedContext343'
 - name: dockerfilePath
   value: '**/Dockerfile'
 - name: tag
